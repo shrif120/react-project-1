@@ -62,6 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a83dff57-4500-464e-add4-002a7b1c2834/deploy-status)](https://app.netlify.com/sites/elastic-hodgkin-6c95a8/deploys)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
